@@ -1,2 +1,2 @@
 # site_venda_de_produtos
-site de vender produtos.
+site feito para a venda de produtos.
